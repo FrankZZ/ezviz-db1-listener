@@ -2,6 +2,7 @@
 Using this Node.js application, you can get the PIR and button press events in your MQTT server.
 
 NOTE: If you are looking to use this software, be aware that the events will not be delivered to the EZViz Cloud. 
+
 In other words: **you won't get notified in the EZViz app**.
 
 ![image](https://user-images.githubusercontent.com/1036887/169587830-b7f51d58-910b-4ab8-a943-711627c1e924.png)
